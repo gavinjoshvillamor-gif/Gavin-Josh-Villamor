@@ -1,4 +1,4 @@
-# Hi there, I'm Gavin Josh Villamor! 👋
+# Hi people, I'm Gavin Josh Villamor! 👋
 
 I have a strong interest in coding and am skilled in database administration.  I enjoy creating effective solutions and resolving complex issues.  I started my career in technology by obtaining a **Bachelor of Science in Information Technology**, and I'm still developing my abilities through practical projects and certifications.
 
